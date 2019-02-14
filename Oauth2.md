@@ -1,8 +1,7 @@
 # OAuth2 🔐
 
-K poskytnutí bezpečné __autentizace__ a __autorizace__
-Služby např. twitter -> poskytují možnost sdílet uživatelská data a identity -> aniž by musely prozrazovat heslo někomu
-dalšímu (např. mě, heslo zná jen twitter) 
+K poskytnutí bezpečné __autentizace__ a __autorizace__. Služby např. twitter -> poskytují možnost sdílet uživatelská data a identity -> aniž by musely prozrazovat heslo někomu
+dalšímu (např. mě, heslo zná jen twitter). 
 
 ## Pojmy
 
