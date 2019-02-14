@@ -25,7 +25,6 @@ _aplikace třetí strany_
 _přesměrovací uri_
 - přesměruje je na registrované uri
 - server přesměruje jen na registrované uri a musí mít https:\\  
-
 ---
 
 ## Resources
