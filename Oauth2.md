@@ -23,7 +23,7 @@ _aplikace třetí strany_
 - většinou registrujeme informace o např. názvu aplikace a redirect uri
 #### Redirect URI 
 _přesměrovací uri_
-- (_pro mého bota to nepotřebuju myslím_)
+- _pro mého bota to nepotřebuju myslím_
 - přesměruje je na registrované uri
 - server přesměruje jen na registrované uri a musí mít https:\\
 ---
