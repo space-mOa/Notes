@@ -25,7 +25,7 @@ _aplikace třetí strany_
 _přesměrovací uri_
 - (_pro mého bota to nepotřebuju myslím_)
 - přesměruje je na registrované uri
-- server přesměruje jen na registrované uri a musí mít https:\\ s
+- server přesměruje jen na registrované uri a musí mít https:\\
 ---
 
 	
