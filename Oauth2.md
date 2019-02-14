@@ -4,7 +4,6 @@ K poskytnutí bezpečné __autentizace__ a __autorizace__. Služby např. twitte
 dalšímu (např. mě, heslo zná jen twitter). 
 
 ## Pojmy
-
 #### Third party application: client
 _aplikace třetí strany_
 
@@ -22,7 +21,6 @@ _aplikace třetí strany_
 
 #### The User: "resource owner"
 - uživatel který dává povolení o přístupu k části jeho dat
-  
 
 ## Vytvoření App
 

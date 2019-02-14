@@ -658,7 +658,8 @@ class Animal {
 ```
 
 
-## Moduly v javascriptu
+## Moduly v javascriptu a node
+- moduly v js a node mají jinou syntaxy
 - umožňují nám dostat přístup k např: objektům, funkcí, proměnných z jiných souborů
 ```javascript
 const Airplane = {};
