@@ -28,9 +28,5 @@ _přesměrovací uri_
 - server přesměruje jen na registrované uri a musí mít https:\\
 ---
 
-
-
-
-
 ## Resources
 [Oauth-webguide-simplified](https://aaronparecki.com/oauth-2-simplified/#roles)
