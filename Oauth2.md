@@ -22,7 +22,6 @@ _aplikace třetí strany_
 
 - nejdříve je nutné vyplnit registraci aplikace u služby např. Twitter
 - většinou registrujeme informace o např. názvu aplikace a redirect uri
-
 	#### Redirect URI - _pro mého bota to nepotřebuju myslím_
 	_přesměrovací uri_
 	- přesměruje je na registrované uri
