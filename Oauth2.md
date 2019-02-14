@@ -24,9 +24,9 @@ _aplikace třetí strany_
 #### Redirect URI - _pro mého bota to nepotřebuju myslím_
 _přesměrovací uri_
 - přesměruje je na registrované uri
-- server přesměruje jen na registrované uri a musí mít https:\\  
+- server přesměruje jen na registrované uri a musí mít https:\\
 ---
 
-
+	
 ## Resources
 [Oauth-webguide-simplified](https://aaronparecki.com/oauth-2-simplified/#roles)
