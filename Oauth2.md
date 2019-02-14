@@ -4,21 +4,16 @@ K poskytnutí bezpečné __autentizace__ a __autorizace__. Služby např. twitte
 dalšímu (např. mě, heslo zná jen twitter). 
 
 ## Pojmy
+
 #### Third party application: client
 _aplikace třetí strany_
-
 - App, která se snaží získat přístup do učtu uživatele. Potřebuje povolení. 
-
 #### The API: "Resource Server"
-
 - Server s informacemi o uživateli
-
 #### The authorization server
- 
 - Zprostředkovává rozhraní
 - Pomocí něhoko uživatel potvrdí nebo zamítné
 - Někdy je stejné s API serverem
-
 #### The User: "resource owner"
 - uživatel který dává povolení o přístupu k části jeho dat
 
@@ -31,8 +26,6 @@ _aplikace třetí strany_
 	_přesměrovací uri_
 	- přesměruje je na registrované uri
 	- server přesměruje jen na registrované uri a musí mít https:\\  
-- 
-
 ---
 
 ## Resources
