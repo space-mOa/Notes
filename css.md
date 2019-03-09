@@ -89,3 +89,8 @@ zakulatí rohy
 ```css
 border-radius: 50%; /* udělá kolečko */
 ```
+
+
+Pro restartování animací !!!
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetWidth
+https://css-tricks.com/restart-css-animation/
