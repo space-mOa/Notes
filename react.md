@@ -11,7 +11,7 @@
 	- JSX: např. ```const myArticle = <article></article>```nebo ```<a href = "https://www.google.com"><h1>google</h1></a>```
 	- v JSX je nutné v tzv. self-closing tagů dát ```/``` např. ```<br />``` nebo ```<img />``` v HTML toto není poviné
 	- všechno uvnitř JSX bude interpretován jako JSX a ne jako javascript
-	- pro použití javascriptu v JSX musím kód vložit do ```{}``` 
+	- pro použití javascriptu v JSX, musím kód vložit do ```{}``` 
 ```
 ReactDOM.render(<h1>2+3</h1>, document.getElementById('app')) // Vytiskne 2 + 3
 ReactDOM.render(<h1>{2+3}</h1>, document.getElementById('app')) // Vytiskne 5
@@ -26,7 +26,7 @@ ReactDOM.render(<h1>{2+3}</h1>, document.getElementById('app')) // Vytiskne 5
   </a>
 )
 ```
-- JSX může mít jen **jeden** nejvíce kořenový element
+- JSX může mít jen **jeden** kořenový element
 	* např. tento kód by nefungoval
 ```javascript
 const paragraphs = (
