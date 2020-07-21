@@ -1,7 +1,6 @@
 # OAuth2 🔐
 
-K poskytnutí bezpečné __autentizace__ a __autorizace__. Služby např. twitter -> poskytují možnost sdílet uživatelská data a identity -> aniž by musely prozrazovat heslo někomu
-dalšímu (např. mě, heslo zná jen twitter). 
+K poskytnutí bezpečné __autentizace__ a __autorizace__. Služby např. twitter -> poskytují možnost sdílet uživatelská data a identity -> aniž by musely prozrazovat heslo někomu dalšímu (např. mně, heslo zná jen twitter). 
 
 ## Pojmy
 
@@ -12,7 +11,7 @@ _aplikace třetí strany_
 - Server s informacemi o uživateli
 #### The authorization server
 - Zprostředkovává rozhraní
-- Pomocí něhoko uživatel potvrdí nebo zamítné
+- Pomocí něhoko uživatel potvrdí nebo zamítne
 - Někdy je stejné s API serverem
 #### The User: "resource owner"
 - uživatel který dává povolení o přístupu k části jeho dat
